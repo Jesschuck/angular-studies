@@ -4,8 +4,8 @@
     align-items: center;
     gap: 0.5rem;
     padding: 0.35rem 0.5rem;
-    background-color: #433352;
-    color: #c3b3d1;
+    background-color: #523350;
+    color: #d1b3cd;
     border: none;
     font: inherit;
     cursor: pointer;
@@ -17,7 +17,7 @@
   button:hover,
   button:active,
   .active {
-    background-color: #9965dd;
+    background-color: #dd65d7;
     color: #150722;
   }
   
