@@ -27,8 +27,11 @@ ng build
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
 ## Screenshots
-![initialpage](image.png)
+Main page:
+![initial-page](image.png)
 
+Add task:
+![add-task](image-1.png)
 
 
 
@@ -39,12 +42,4 @@ This will compile your project and store the build artifacts in the `dist/` dire
 - Create new tasks.
 - Mark tasks as completed.
 - Save information in `localStorage`.
-
-## Technologies Used
-
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-
 
